@@ -16,3 +16,5 @@ Coding Challenges
   ### [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life), gestellt von: Dominic
   
   Erstelle eine Simulation von Conway's Game of Life, in der Programmiersprache deiner Wahl.
+  
+  Deadline: 06.05.2017, 23:59
